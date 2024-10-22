@@ -1,0 +1,24 @@
+header.titulo{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+nav.subtitulo{
+text-align: center;
+    background-color: greenyellow;
+}
+p.primer_parrafo{
+color: blue;
+    background-color: orangered;
+}
+p.penultimo_parrafo{
+
+    background-color: orangered;
+}
+footer.final{
+
+    background-color: blue;
+}
+h4.final_2{
+
+    background-color: yellow;
+}
